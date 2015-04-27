@@ -1,4 +1,4 @@
-Python scripts to derive physical properties (linewidth, temperature, column density) using Ammonia hyperfine lines.
+Python scripts to derive physical properties (linewidth, temperature, column density, etc.) using Ammonia hyperfine lines.
 
 There are three version for now:
 
